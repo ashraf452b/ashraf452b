@@ -26,20 +26,19 @@ I like working on backend systems, problem solving and building scalable applica
 
 - Problem Solving (Data Structures & Algorithms)
 - Backend Development with Django
-- Cybersecurity (Beginner level)
 - Database design & optimization
 
 ---
 
 ## 🚀 Projects
 
-- Skill Matching Platform (ongoing)
-- Routine Scheduler System
-- Fake News Detector (Bangla + English)
+- Skill Matching Platform
+- Vangari Mama
+
 
 ---
 
 ## 📫 Contact
 
-- Email: yourmail@gmail.com
-- GitHub: https://github.com/yourusername
+- Email: ashraf452b@gmail.com
+- GitHub: https://github.com/ashraf452b
