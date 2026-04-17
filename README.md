@@ -27,7 +27,7 @@ I was fortunate to experiment with these stuff (at least the ones off the top of
 - Building **Vangari-Mama**, a location-based recyclables marketplace with real-time price negotiation and Google Maps integration!
 - Full-stack development utilizing [React.js](https://react.dev/) and [Django](https://www.djangoproject.com/) frameworks!
 - Designing and implementing RESTful APIs!
-- Competitive programming and solving algorithmic challenges using C++ on platforms like [Codeforces](https://codeforces.com/) and [LeetCode](https://leetcode.com/)!
+- Competitive programming and solving algorithmic challenges using C++ on platforms like [Codeforces](https://codeforces.com/profile/iashraf) and [LeetCode](https://leetcode.com/u/ashraf452b/)!
 - Modern web styling and theme-switching logic using [Tailwind CSS](https://tailwindcss.com/)!
 - Exploring matrix algebra, eigenvalues, and characteristic equations!
 
