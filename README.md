@@ -1,6 +1,6 @@
 <h2 align="center"> ~ Hello there! I'm Ashraful Islam ~ </h2>
 
-I work in tech and love building the occasional automation which takes me 6 hrs to reclaim 15 mins of mundane tasks. I'm currently in my 8th semester studying **Computer Science**. Besides tech, I'm also fairly invested in competitive programming and exploring direct, simple code implementations. I wish I was more active on Github but `\_(ツ)_/` sorry
+I work in tech and love building the occasional automation which takes me 6 hrs to reclaim 15 mins of mundane tasks. I'm currently in my 11th semester studying **Computer Science**. Besides tech, I'm also fairly invested in competitive programming and exploring direct, simple code implementations.
 
 ### 👨‍💻 My Tech!
 
