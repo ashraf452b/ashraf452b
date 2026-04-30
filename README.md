@@ -1,5 +1,5 @@
 <h1 align="center">~ Hello there! I'm Ashraful Islam ~</h1>
-![](https://komarev.com/ghpvc/?username=ashraf452b)
+![Profile Views](https://komarev.com/ghpvc/?username=ashraf452b&color=blue)
 
 I work in tech and love building the occasional automation which takes me 6 hrs to reclaim 15 mins of mundane tasks. I'm currently in my 11th semester studying **Computer Science**. Besides tech, I'm also fairly invested in competitive programming and exploring direct, simple code implementations.
 
