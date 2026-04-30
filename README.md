@@ -1,5 +1,5 @@
 <h1 align="center">~ Hello there! I'm Ashraful Islam ~</h1>
-<img src="https://komarev.com/ghpvc/?username=ashraf452b&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ashraf452b&color=fff" alt="Profile Views" />
 
 I work in tech and love building the occasional automation which takes me 6 hrs to reclaim 15 mins of mundane tasks. I'm currently in my 11th semester studying **Computer Science**. Besides tech, I'm also fairly invested in competitive programming and exploring direct, simple code implementations.
 
@@ -33,4 +33,4 @@ I was fortunate to experiment with these stuff (at least the ones off the top of
 - Exploring matrix algebra, eigenvalues, and characteristic equations!
 
 ---
-> ***I'm available via 📫 [email](ashraf452b@gmail.com). Feel free to hit me up if you feel like discussing new ideas (or even just random tech), collaborating or even grabbing a cup of coffee!***
+> ***I'm available via 📫 [email](ashraf452b@gmail.com). ashraf452b@gmail.com Feel free to hit me up if you feel like discussing new ideas (or even just random tech), collaborating or even grabbing a cup of coffee!***
