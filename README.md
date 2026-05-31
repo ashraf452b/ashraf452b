@@ -20,6 +20,7 @@ I was fortunate to experiment with these stuff (at least the ones off the top of
 <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="react" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="git" />
 <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="postgres" />
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" alt="mysql" />
 </p>
 
 
